@@ -4,8 +4,7 @@
 
 **Co-Founder & CTO at [Marshmallo AI](https://marshmallo.ai)**
 
-[Research](https://arxiv.org/abs/2511.01093) · [Arc Research](https://www.arc.computer/research) · [ATLAS Docs](https://docs.arc.computer) · [HuggingFace](https://huggingface.co/arc-intelligence)
-
+[Research](https://arxiv.org/abs/2511.01093) · [Marlo Docs](https://docs.marshmallo.ai/)
 ---
 
 ## Current
@@ -21,7 +20,6 @@ At Marshmallo, building the **Continual Agentic Learning Platform**. Agents obse
 ## Research
 
 **[Continual Learning, Not Training: Online Adaptation For Agents](https://arxiv.org/abs/2511.01093)**
-*Aman Jaglan, Jarrod Barnes*
 
 ATLAS achieves 54.1% success with GPT-5-mini as Student, outperforming GPT-5 (High) by 13% while reducing cost by 86%. Cross-validation improves accuracy from 28% to 41% without retraining.
 
@@ -29,7 +27,7 @@ ATLAS achieves 54.1% success with GPT-5-mini as Student, outperforming GPT-5 (Hi
 
 ## Previous — Arc Computer
 
-Built [ATLAS](https://github.com/arc-computer/ATLAS) and [Atlas SDK](https://github.com/arc-computer/atlas-sdk), an open-source continual learning framework for production LLM agents.
+Built [ATLAS](https://github.com/arc-computer/ATLAS) and [Atlas SDK](https://github.com/arc-computer/atlas-sdk), [HuggingFace](https://huggingface.co/arc-intelligence) an open-source continual learning framework for production LLM agents.
 
 | Component | What it does |
 |-----------|--------------|
