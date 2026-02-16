@@ -1,19 +1,29 @@
-# Aman Jaglan
+# Hi, I'm Aman
 
-### Building agents that learn continuously from production
+**New York** | **Co-Founder & CTO at [Marshmallo AI](https://marshmallo.ai)** | **Continual Learning for Agents**
 
-**Co-Founder & CTO at [Marshmallo AI](https://marshmallo.ai)**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-[Research](https://arxiv.org/abs/2511.01093) · [Marlo Docs](https://docs.marshmallo.ai/)
+> Building the feedback loop that makes AI agents learn from production. Agents should get smarter from every failure, not repeat the same mistakes.
+
+[Research](https://arxiv.org/abs/2511.01093) | [Marlo Docs](https://docs.marshmallo.ai/) | [HuggingFace](https://huggingface.co/arc-intelligence)
+
 ---
 
-## Current
+## Current -- Marshmallo AI
 
-At Marshmallo, building the **Continual Agentic Learning Platform**. Agents observe, evaluate, learn, and deploy in a closed loop. Intelligence compounds over time instead of staying static after deployment.
+Building **[Marlo](https://github.com/Marshmallo-AI/Marlo)**, the open-source agent learning platform. Capture behavior, evaluate outcomes, and turn failures into learnings that deploy back into the agent. Intelligence compounds over time.
 
-| Observe | Evaluate | Learn |
-|---------|----------|-------|
-| Capture every step, tool call, reasoning and action. | Score each task using LLM judges. | Generate learnings that deploy back into the agent. |
+- **[Marlo SDK](https://pypi.org/project/marlo-sdk/)** -- Python & TypeScript SDKs for capturing agent traces, tool calls, and reasoning
+- **[Marlo Inbox](https://github.com/Marshmallo-AI/marlo-inbox)** -- AI email & calendar assistant powered by Marlo
+- **[Marlo Docs](https://github.com/Marshmallo-AI/docs)** -- Documentation for the platform
 
 ---
 
@@ -25,19 +35,22 @@ ATLAS achieves 54.1% success with GPT-5-mini as Student, outperforming GPT-5 (Hi
 
 ---
 
-## Previous — Arc Computer
+## Previous -- Arc Computer
 
-Built [ATLAS](https://github.com/arc-computer/ATLAS) and [Atlas SDK](https://github.com/arc-computer/atlas-sdk), [HuggingFace](https://huggingface.co/arc-intelligence) an open-source continual learning framework for production LLM agents.
+Built the open-source continual learning stack for production LLM agents.
 
-| Component | What it does |
-|-----------|--------------|
-| **Reinforced Continual Learning** | Teacher-Student framework. Teachers generate thinking traces to guide Students. Cross-domain transfer without domain-specific fine-tuning. |
-| **Cross-Domain Learning** | Teacher trained on mathematics (46% on AIME-25), transfers reasoning to enterprise tasks. |
-| **Inference-Time Adaptation** | 54.1% task success vs GPT-5 High's 48.0% at 86% lower cost. Gradient-free, runtime adaptation. |
-| **On-Policy Distillation** | 10x more compute-efficient than RL. Two-gear training pattern for production. |
-| **Atlas SDK** | Runtime wrapper capturing causality traces. Enables offline training via GRPO and GKD. |
+- **[ATLAS](https://github.com/arc-computer/ATLAS)** -- Continual learning framework. Teacher-Student architecture with cross-domain transfer and inference-time adaptation. +15.7% accuracy, +31% task completion, 97% non-degradation rate.
+- **[Atlas SDK](https://github.com/arc-computer/atlas-sdk)** -- Runtime wrapper capturing causality traces. Enables offline training via GRPO and GKD.
+- **[CL-Bench](https://github.com/arc-computer/CL-Bench)** -- Benchmark for evaluating agent continual learning in stateful environments. Production-realistic CRM workflows with multi-turn conversations and state mutations.
+- **[HuggingFace Models](https://huggingface.co/arc-intelligence)** -- Open weights for continual learning research.
 
-**Results**: +15.7% accuracy, +31% task completion, 97% non-degradation rate.
+---
+
+## Side Projects
+
+- **[OpenSearch](https://github.com/aman-jaglan/opensearch)** -- AI research engine that searches, analyzes, and generates cited reports with charts(Better Perplexity)
+- **[ReplicaDB](https://github.com/aman-jaglan/ReplicaDB)** -- Single platform for data and analytics needs
+- **[CI Code Companion](https://github.com/aman-jaglan/CI-Code-Companion)** -- AI-powered GitLab CI/CD tool using Vertex AI for auto-generating tests, docs, and pipeline templates
 
 ---
 
@@ -45,5 +58,15 @@ Built [ATLAS](https://github.com/arc-computer/ATLAS) and [Atlas SDK](https://git
 
 - Continual learning for autonomous agents
 - Reinforcement learning from production feedback
-- Knowledge distillation and transfer
+- Multi Agentic Systems
+- AI -> AI interaction
+- Cross Domain transfer in AI
 - Agent reliability at scale
+
+---
+
+## Connect
+
+- **Email**: [amanwork2025@gmail.com](mailto:amanwork2025@gmail.com)
+- **Company**: [marshmallo.ai](https://marshmallo.ai)
+- **Research**: [arxiv.org/abs/2511.01093](https://arxiv.org/abs/2511.01093)
